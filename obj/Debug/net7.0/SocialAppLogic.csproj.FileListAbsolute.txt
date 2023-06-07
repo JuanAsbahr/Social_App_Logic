@@ -1,0 +1,15 @@
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\bin\Debug\net7.0\SocialAppLogic.exe
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\bin\Debug\net7.0\SocialAppLogic.deps.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\bin\Debug\net7.0\SocialAppLogic.runtimeconfig.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\bin\Debug\net7.0\SocialAppLogic.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\bin\Debug\net7.0\SocialAppLogic.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\obj\Debug\net7.0\SocialAppLogic.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\obj\Debug\net7.0\SocialAppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\obj\Debug\net7.0\SocialAppLogic.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\obj\Debug\net7.0\SocialAppLogic.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\obj\Debug\net7.0\SocialAppLogic.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\obj\Debug\net7.0\SocialAppLogic.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\obj\Debug\net7.0\refint\SocialAppLogic.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\obj\Debug\net7.0\SocialAppLogic.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\obj\Debug\net7.0\SocialAppLogic.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\SocialAppLogic\obj\Debug\net7.0\ref\SocialAppLogic.dll
